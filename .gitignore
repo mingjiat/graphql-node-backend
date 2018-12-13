@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# editor
+.idea
+
+# package
+package-lock.json
